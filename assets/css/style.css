@@ -1,0 +1,30 @@
+.archive-title {
+    text-align: center;
+    color: #494949;
+}
+.archive-description {
+    text-align: center;
+}
+
+.archive-posts {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px; 
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+}
+
+.archive-posts .post {
+    background-color: #ececec;
+    box-shadow: 0 0 10px #494949;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+img.post-no-logo {
+    width: 100px;
+    height: auto;
+}
