@@ -17,6 +17,7 @@
 ├── header.php
 ├── index.php
 ├── page.php
+├── screenshot.png
 ├── single.php
 └── style.css
 ```
@@ -25,6 +26,7 @@
 
 ### Main Files
 - `style.css` - Main stylesheet and theme information
+- `screenshot.png` - Theme preview image
 - `index.php` - Fallback page for the template
 - `header.php` - Site header
 - `footer.php` - Site footer
